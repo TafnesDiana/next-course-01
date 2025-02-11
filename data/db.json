@@ -1,0 +1,76 @@
+{
+  "planets":[
+    {
+      "id": 1,
+      "title": "Mercúrio",
+      "price": 110.000,
+      "summary": "O planeta mais próximo do Sol, conhecido por suas temperaturas extremas e superfície craterada.",
+      "image": {
+        "mainImage":"https://static.todamateria.com.br/upload/me/rc/mercurio-cke.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Vênus",
+      "price": 100.000,
+      "summary": "O planeta mais quente do Sistema Solar, com uma atmosfera densa e tóxica.",
+      "image": {
+        "mainImage": "https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/f5c821353c57b50225cda29678232840.jpg"
+      }
+     },
+    {
+      "id": 3,
+      "title": "Terra",
+      "price": 999.000,
+      "summary": "Nosso lar, o único planeta conhecido por abrigar vida, com oceanos, continentes e uma atmosfera rica em oxigênio.",
+      "image": {
+        "mainImage": "https://cultura.uol.com.br/upload/tvcultura/turismo/20210721181042_20210528204714-nota-terra.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Marte",
+      "price": 430.000,
+      "summary": "O 'Planeta Vermelho', com paisagens desérticas, calotas polares e evidências de água no passado.",
+      "image": {
+        "mainImage": "https://s1.static.brasilescola.uol.com.br/be/2021/11/planeta-marte.jpg"
+      }
+     },
+    {
+      "id": 5,
+      "title": "Júpiter",
+      "price": 700.000,
+      "summary": "O maior planeta do Sistema Solar, um gigante gasoso com a famosa Grande Mancha Vermelha e muitas luas.",
+      "image": {
+        "mainImage": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2024/01/planeta-jupiter.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Saturno",
+      "price": 670.000,
+      "summary": "Conhecido por seus belos anéis, também um gigante gasoso com várias luas e uma atmosfera complexa.",
+      "image": {
+    "mainImage": "https://static.todamateria.com.br/upload/sa/tu/saturnoeseusaneis-cke.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Urano",
+      "price": 500.000,
+      "summary": "Um gigante de gelo com um eixo de rotação inclinado, conferindo-lhe um aspecto único.",
+      "image": {
+        "mainImage": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2021/04/planeta-urano.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Netuno",
+      "price": 470.000,
+      "summary": "O planeta mais distante do Sol (desde a reclassificação de Plutão), outro gigante de gelo com ventos fortes e uma atmosfera dinâmica.",
+      "image": {
+        "mainImage": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/10/aneis-netuno.jpg"
+      }
+    }
+  ]
+}
