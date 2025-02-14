@@ -12,6 +12,12 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        bebas: ["var(--font-bebas-neue)", "sans-serif"],
+        oswald: ["var(--font-oswald)", "sans-serif"],
+        quicksand:["var(--font-quicksand)", "sans-serif"],
+        atkinson:["var(--font-atkinson-hyperlegible)", "sans-serif" ],
+      },
     },
   },
   plugins: [],

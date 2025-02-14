@@ -1,13 +1,14 @@
+import Home from "./home/page";
 
 export const metadata = {
-    title: "Página Principal",
+    title: "Main Page",
     description:"Página Principal"
 }
 
-export default function Home() {
+export default function App() {
   return (
     <>
-      <h1 className="font-bold text-5xl text-center justify-center pt-3">Home</h1>
+      <Home/>
     </>
   );
 }
